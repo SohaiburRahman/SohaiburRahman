@@ -9,7 +9,7 @@ The crossover between design and programming has always been of interest to me, 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaiburrahman&label=Profile%20views&color=0e75b6&style=flat" alt="sohaiburrahman" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaiburrahman" alt="sohaiburrahman" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaiburrahman" alt="sohaiburrahman" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sohaib82093534" target="blank"><img src="https://img.shields.io/twitter/follow/sohaib82093534?logo=twitter&style=for-the-badge" alt="sohaib82093534" /></a> </p>
 
