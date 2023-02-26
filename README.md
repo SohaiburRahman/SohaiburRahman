@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohaibur Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+I'm
+Front-End Developer
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include, front-end development (HTML5, CSS3, Javascript, Responsive, Bootstrap, Jquery)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaiburrahman&label=Profile%20views&color=0e75b6&style=flat" alt="sohaiburrahman" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaiburrahman" alt="sohaiburrahman" /></a> </p>
 
